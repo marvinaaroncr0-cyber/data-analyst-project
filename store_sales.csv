@@ -1,0 +1,11 @@
+order_id,product,region,units_sold,price,date
+2001,Laptop,East,2,1200,2024-02-01
+2002,Phone,West,3,800,2024-02-01
+2003,Tablet,South,1,700,2024-02-02
+2004,Laptop,East,,1200,2024/02/03
+2005,Phone,West,2,800,2024-02-02
+2006,Monitor,North,1,450,2024-02-03
+2007,Tablet,South,2,700,
+2008,Laptop,East,2,1200,2024-02-01
+2009,Phone,West,three,800,2024-02-02
+2010,Monitor,North,1,450,2024-02-03
